@@ -8,7 +8,8 @@ langchain-pinecone
 langchain-google-genai
 langchain-huggingface
 
-pinecone-client
+pinecone
+langchain-pinecone
 
 sentence-transformers
 pypdf
