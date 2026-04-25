@@ -6,6 +6,7 @@ langchain-core
 langchain-community
 langchain-pinecone
 langchain-google-genai
+langchain-huggingface
 
 pinecone-client
 
